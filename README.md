@@ -9,5 +9,6 @@ Sig in:
 ![image](https://user-images.githubusercontent.com/70527896/151429828-75ebe1c4-441e-4430-8f7b-91567bffc599.png)
 
 Sign up:
-![registerpage](https://user-images.githubusercontent.com/70527896/151428954-8407322d-41c8-44e9-9c26-46998910a06b.png)
+![image](https://user-images.githubusercontent.com/70527896/151430899-ed670960-0b58-47ec-b60f-6223baee10af.png)
+
 
